@@ -14,7 +14,7 @@
 [Acesse o vídeo aqui](https://youtu.be/cMe3U7uOCuM)
 
 ##  Notebook
-[Acesse o notebook aqui](https://colab.research.google.com/drive/1A3gCvnjRTPuaxkFJF6lkodU9-eM16Hmd?usp=sharing)
+[Acesse o notebook aqui](https://colab.research.google.com/drive/1QpzYvyxtK-m5_635RySU-6wrF16O2gKp?usp=sharing)
 
 
 ##  Base de dados 
