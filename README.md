@@ -15,3 +15,7 @@
 
 ##  Notebook
 [Acesse o notebook aqui](https://colab.research.google.com/drive/1A3gCvnjRTPuaxkFJF6lkodU9-eM16Hmd?usp=sharing)
+
+
+##  Base de dados 
+[Acesse o github da base de dados aqui](https://github.com/Tom-Ferrite/INFLUD)
